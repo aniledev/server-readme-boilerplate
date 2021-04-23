@@ -1,5 +1,5 @@
 <h1 align="center">Project Name</h1>
-<h3 align="center">A [full-stack/front-end/back-end] [application/client/server/etc] that [what the project does]</h3>
+<h3 align="center">A [back-end] [application/server/database/etc] that [what the project does]</h3>
 
 <p align="center">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aniledev/readme-boilerplate">
