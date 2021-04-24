@@ -14,10 +14,13 @@
   <summary>Contents</summary>
   <ol>
     <li><a href="#about-this-project">About This Project</a></li>
+    <li><a href="#api-documentation">API Documentation</a></li>
+    <li><a href="#local-dev-setup">Local Dev Setup</a></li>
+    <li><a href="#configuring-postgresql">Configuring PostgreSQL</a></li>
+    <li><a href="#scripts">Scripts</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#technical-aspects">Technical Aspects</a></li>
     <li><a href="#deployment">Deployment</a></li>
-    <li><a href="#project-scripts">Project Scripts</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#connect-with-me">Connect With Me</a></li>
   </ol>
@@ -27,13 +30,33 @@
 
 ## About this Project
 
+## API Documentation
+
+### Endpoints
+
+#### GET restaurants
+
+##### Example Request
+##### Example Response
+
+#### GET single restaurant
+
+##### Example Request
+##### Example Response
+
+### Status Codes
+
+## Local Dev Setup
+
+## Configuring PostgreSQL
+
+## Scripts
+
 ## Built With
 
 ## Technical Aspects
 
 ## Deployment
-
-## Project Scripts
 
 ## Acknowledgements
 
