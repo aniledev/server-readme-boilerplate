@@ -32,18 +32,6 @@
 
 ## API Documentation
 
-### Endpoints
-
-#### GET restaurants
-
-##### Example Request
-##### Example Response
-
-#### GET single restaurant
-
-##### Example Request
-##### Example Response
-
 ### Status Codes
 
 ## Local Dev Setup
